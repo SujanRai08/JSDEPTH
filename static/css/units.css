@@ -1,0 +1,26 @@
+section{
+    padding: 0;
+    margin: 12px;
+    text-align: center;
+    place-items: center;
+
+}
+h1{
+    text-decoration-line: underline;
+    text-decoration-color: blue;  
+    text-decoration-thickness: 10px;
+    text-decoration-style: wavy;
+    text-transform: uppercase;
+
+}
+p{
+    letter-spacing: 2px;
+    word-spacing: 1px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    font-weight: 200;
+    line-height: 1.65rem;
+    text-shadow: 5px 1px 4px blue;
+
+}
+
