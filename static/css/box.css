@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(to right bottom, rgb(11, 0, 66),rgb(77, 75, 75),rgb(48, 13, 51),rgb(31, 100, 1)); 
+    text-align: center;
+
+}
+    /* background-image: radial-gradient(circle at center,red,yellow); */
+/* 
+     color goes from top to bottom
+    for diagonal to bottom right
+    for radial   */
+    /* box-shadow:rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px ; */
+/*  
+}
+img{
+    for drop shadow 
+    filter: drop-shadow(0 0 0 #fff);
+    list-style: none;
+} 
+/* list : lvha list,visiting, hover,active  */
+
+/* combinations-css
+*/
+p{
+    column-count: 3;
+    /* column-rule-color: white; */
+    column-gap: 20px;
+    column-rule: 4px solid white;
+    text-align: justify;
+    color: aqua;
+}
+/* flexbox */
+
+
